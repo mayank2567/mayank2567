@@ -25,8 +25,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank2567&show_icons=true&locale=en&layout=compact" alt="mayank2567" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank2567&show_icons=true&locale=en" alt="mayank2567" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank2567&" alt="mayank2567" /></p>
 
