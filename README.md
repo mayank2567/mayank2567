@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mayankchandel2567@gmail.com**
 
-- 📄 Know about my experiences [Reume](https://drive.google.com/file/d/1adGsB3pgFN5nr1sr2Ofv8pBQTcFuFpc3/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1adGsB3pgFN5nr1sr2Ofv8pBQTcFuFpc3/view?usp=share_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
